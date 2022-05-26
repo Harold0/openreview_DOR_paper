@@ -1,0 +1,23 @@
+>>rec_init('b')
+>>rec(3.7799999999999998e+00,"reward")
+>>rec(3.7799999999999998e+00,"top reward")
+>>rec_show
+>>rec(4.1799999999999997e+00,"reward")
+>>rec(4.1799999999999997e+00,"top reward")
+>>rec_show
+>>rec(4.0300000000000002e+00,"reward")
+>>rec(4.1799999999999997e+00,"top reward")
+>>rec_show
+>>rec(4.0400000000000000e+00,"reward")
+>>rec(4.1799999999999997e+00,"top reward")
+>>rec_show
+>>rec(4.1900000000000004e+00,"reward")
+>>rec(4.1900000000000004e+00,"top reward")
+>>rec_show
+>>rec(4.0700000000000003e+00,"reward")
+>>rec(4.1900000000000004e+00,"top reward")
+>>rec_show
+>>rec(4.1100000000000003e+00,"reward")
+>>rec(4.1900000000000004e+00,"top reward")
+>>rec_show
+><EndTaskFlag

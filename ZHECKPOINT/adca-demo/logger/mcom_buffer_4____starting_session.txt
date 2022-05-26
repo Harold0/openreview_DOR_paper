@@ -1,0 +1,5 @@
+>>rec_init('b')
+>>rec(3.7799999999999998e+00,"reward")
+>>rec(3.7799999999999998e+00,"top reward")
+>>rec_show
+><EndTaskFlag

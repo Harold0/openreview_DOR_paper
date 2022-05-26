@@ -1,0 +1,581 @@
+>>rec_init('b')
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(6.6618589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.2243589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589753e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589753e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7556089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3806089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1618589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2556089743589753e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9118589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3493589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5368589743589745e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4118589743589745e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1618589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589753e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589753e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.2243589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.4743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0056089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0056089743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3806089743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2868589743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7556089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5368589743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3181089743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1931089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2556089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1931089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6931089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.2556089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9431089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.1618589743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5368589743589745e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9118589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4431089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4431089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.4743589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.5368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6931089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9118589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.2243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6931089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7556089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6931089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9431089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0368589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9118589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4431089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7556089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9118589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2868589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1306089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.0993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6306089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7556089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7243589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5681089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2868589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8493589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8181089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.9431089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.2556089743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.1931089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.2868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5056089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.7868589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.4743589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3806089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.1931089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589753e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(7.2868589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.8806089743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.6618589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.5993589743589762e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+>>rec(6.3806089743589745e+00,"reward")
+>>rec(7.5368589743589762e+00,"top reward")
+>>rec_show
+><EndTaskFlag

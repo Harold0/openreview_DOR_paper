@@ -1,0 +1,43 @@
+{
+    "config.py->GlobalConfig": {
+        "note": "qmix+basic-ma-40-1A4B2C-Run2",
+        "env_name": "mathgame",
+        "env_path": "MISSIONS.math_game",
+        "draw_mode": "Img",
+        "num_threads": "64",
+        "report_reward_interval": "64",
+        "test_interval": "1024",
+        "test_epoch": "192",
+        "device": "cuda",
+        "max_n_episode": 524288,
+        "fold": "4",
+        "backup_files": [
+            "MISSIONS/math_game",
+            "ALGORITHM/pymarl2_compat"
+        ]
+    },
+    "MISSIONS.math_game.env.py->ScenarioConfig": {
+        "n_team1agent": 40,
+        "n_actions": 10,
+        "levels": "1A-4B-2C",
+        "show_details": false,
+        "StateProvided": true,
+        "TEAM_NAMES": [
+            "ALGORITHM.pymarl2_compat.pymarl2_compat->PymarlFoundation"
+        ]
+    },
+    "ALGORITHM.pymarl2_compat.pymarl2_compat.py->AlgorithmConfig": {
+        "load_checkpoint": "False",
+        "batch_size": 64,
+        "pymarl_config_injection": {
+            "controllers.my_n_controller.py->PymarlAlgorithmConfig": {
+                "use_normalization": "True",
+                "use_vae": "False"
+            },
+            "components.action_selectors.py->EpsilonGreedyConfig": {
+                "epsilon_finish": 0.1,
+                "epsilon_anneal_time": 200000.0
+            }
+        }
+    }
+}
