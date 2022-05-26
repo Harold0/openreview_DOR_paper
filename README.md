@@ -1,6 +1,12 @@
 # Quick Start
 Temporary resp for reviewers.
 
+
+
+https://user-images.githubusercontent.com/24803435/170527084-3f1573ef-5c63-4342-98c4-1335706e4a6b.mp4
+
+
+
 ## 0. dependency
 We use docker to solve dependency: 
 [SetupDocker](./SetupDocker.md)
