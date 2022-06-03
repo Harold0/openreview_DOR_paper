@@ -12,7 +12,7 @@ $ docker run -itd   --name  hmp-$USER \
 --net host \
 --gpus all \
 --shm-size=16G \
-fureplaceanonymous/hmp:latest
+fuqingxu/hmp:latest
 ```
 Warning! Need at least 50GB disk space because cuda, Starcraft environment and all needed python package is packed inside.
 

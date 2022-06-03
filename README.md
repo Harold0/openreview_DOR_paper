@@ -5,7 +5,7 @@ Temporary resp for reviewers.
 
 ## 0. dependency
 We use docker to solve dependency: 
-[SetupDocker](./SetupDocker.md)
+[SetupDocker](./setup_docker.md)
 
 Please read SetupDocker.md, then set up the container using:
 ```bash
@@ -13,7 +13,7 @@ $ docker run -itd   --name  hmp-$USER \
 --net host \
 --gpus all \
 --shm-size=16G \
-fureplaceanonymous/hmp:latest
+fuqingxu/hmp:latest
 ```
 
 ## 1. testing
@@ -34,7 +34,6 @@ JS visualizer online (localhost): http://localhost:aRandomPort
 https://user-images.githubusercontent.com/24803435/170528233-0303608c-a12b-43bf-a34e-395fcb5c5a06.mp4
 
 https://user-images.githubusercontent.com/24803435/171123157-01b3c73d-8af9-401a-8c89-c8a7c9f633bc.mp4
-
 
 https://user-images.githubusercontent.com/24803435/170527084-3f1573ef-5c63-4342-98c4-1335706e4a6b.mp4
 
