@@ -67,3 +67,9 @@ bvrAI.log
 z_*
 ALGORITHM/conc_4hist_divtree2
 example_dca_cs*
+
+!ZHECKPOINT/adca-demo
+!ZHECKPOINT/adca-demo/*
+
+!ZHECKPOINT/adca-demo
+!ZHECKPOINT/basic-ma-40-demo/*
